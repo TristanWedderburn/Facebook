@@ -1,1 +1,1 @@
-Facebook log in page basic functionality using Javascript. This method can be scaled and used for larger-scale web applications.
+Basic Facebook login functionality using javascript. This method can be scaled to used to large web applications.
